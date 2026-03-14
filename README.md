@@ -14,7 +14,7 @@ The analysis is performed using Hadoop MapReduce, a technology designed to proce
 ## Step-by-Step Instructions
 
 ### 1. Clone the Repository
-Get the project code from GitHub:
+Get the project code from GitHub ([nostoc/olymic-map-reduce](https://github.com/nostoc/olymic-map-reduce)):
 ```bash
 git clone https://github.com/nostoc/olymic-map-reduce
 cd olymic-map-reduce
